@@ -2,9 +2,9 @@
 
 ## QUESTÃO 01
 
-- **Abstração**
-- **Encapsulamento**
-- **Construtor**
+- **(A) Abstração**
+- **(B) Encapsulamento**
+- **(C) Construtor**
 
 ## QUESTÃO 02
 
