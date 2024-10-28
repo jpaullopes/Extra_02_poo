@@ -22,7 +22,7 @@
 
   let conta : Conta = new Conta();
   
-      1         2      3    4
+    1         2      3    4
 
 4	Construtor |
 3	Operador de instanciação |
