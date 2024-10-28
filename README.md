@@ -27,5 +27,5 @@
 4	Construtor |
 3	Operador de instanciação |
 2	Classe |
-1	Objeto = new Conta(); 
+1	Objeto
 
