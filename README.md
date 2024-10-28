@@ -29,4 +29,4 @@
 2	Classe |
 1	Objeto
 
-## [Documentod da Resolução](https://docs.google.com/document/d/1qmQxt9hGkboNcEmK78tJVvfmw0lZlOi-0Gn63Q0E1XI/edit?usp=sharing)
+## [Documento da Resolução](https://docs.google.com/document/d/1qmQxt9hGkboNcEmK78tJVvfmw0lZlOi-0Gn63Q0E1XI/edit?usp=sharing)
